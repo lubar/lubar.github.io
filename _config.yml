@@ -8,13 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : lubar is fubar
+tagline: hacker thoughts
 author :
-  name : Name Lastname
+  name : Luke Barrington
   email : blah@email.test
-  github : username
-  twitter : username
+  github : lubar
+  twitter : lukeinusa
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
