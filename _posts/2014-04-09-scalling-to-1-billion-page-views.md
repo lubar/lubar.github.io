@@ -6,8 +6,7 @@ tags : [tomnod, AWS, MH370, tutorial]
 ---
 {% include JB/setup %}
 
-3 Tips for Scaling your Website
-to 1 Billion Page Views
+3 Tips for Scaling your Website to 1 Billion Page Views
 =====================================================
 
 Last week was a time of stress, uncertainty and emotion as millions of people around the world searched and waited for any news about the location of the missing Malaysia Airlines flight 370 that disappeared on the evening of Friday March 7. It was also a week of stress, uncertainty and emotion for the Tomnod developers as we scrambled to support millions of people from around the world searching the possible crash location on Tomnod.com. 
