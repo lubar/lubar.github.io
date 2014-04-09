@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: "Tomnod lessons for MH370"
 tags : [tomnod, AWS, MH370, tutorial]
 ---
 {% include JB/setup %}
