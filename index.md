@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beyond all regognition
-tagline: **
+tagline: Tag line
 ---
 {% include JB/setup %}
 
