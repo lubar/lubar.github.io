@@ -3,6 +3,7 @@ layout: post
 category : writing
 tagline: ""
 tags : [thoughts]
+image: assets/writing.jpg
 ---
 {% include JB/setup %}
 
