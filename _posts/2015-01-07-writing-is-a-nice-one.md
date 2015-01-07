@@ -21,5 +21,5 @@ And, of course, I love good writing, interesting thoughts and using the interweb
 
 So bring it on 2015. Let's write.
 
-<a name="footnote-1">1.</a>[Death to the Stock Photo](http://deathtothestockphoto.com/) is also where I got this nice header image.
-<a name="footnote-2">2.</a>Yes, I'm aware of the irony in proclaiming my love for good writing using a sentence that starts with a preposition. But this is my first time wtiting in a while (see, I did it again).</>
+<a name="footnote-1"></a>1. [Death to the Stock Photo](http://deathtothestockphoto.com/) is also where I got this nice header image.
+<a name="footnote-2"></a>2. Yes, I'm aware of the irony in proclaiming my love for good writing using a sentence that starts with a preposition. But this is my first time wtiting in a while (see, I did it again).</>
