@@ -303,6 +303,7 @@ a.sidebar-nav-item:focus {
 
 .footnote {
     font-size: small;
+    line-height: 100%;
 }
 
 /*
