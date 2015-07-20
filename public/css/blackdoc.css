@@ -221,8 +221,12 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 .social-icon {
-    padding-left: 20px;
+    padding-left: 55px;
 }
+.social-icon i {
+    font-size: 30px;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
