@@ -220,8 +220,7 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
-
-.sidebar .social-icon {
+.social-icon {
     padding-left: 20px;
 }
 /* Sticky sidebar
