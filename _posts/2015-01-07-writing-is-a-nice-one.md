@@ -18,9 +18,9 @@ I'm not sure yet what I'll write about.
 I have lots to share about the technical trivia of writing code and building websites. 
 I love war stories and motivational messages from the startup scene. 
 I'm more and more exctied about product managment and how good product strategy can build business and innovate the tools we love to work with and the toys we love to play with.
-And, of course, I love good writing, interesting thoughts and using the interwebs to share ideas.
+And, of course, I love good writing, interesting thoughts and using the interwebs to share ideas.<sup>[2](#footnote-2)</sup>
 
 So bring it on 2015. Let's write.
 
-<a name="footnote-1"></a>1. [Death to the Stock Photo](http://deathtothestockphoto.com/) is also where I got this nice header image.
+<a name="footnote-1"></a>1. [Death to the Stock Photo](http://deathtothestockphoto.com/) is also where I got this nice header image.<br/>
 <a name="footnote-2"></a>2. Yes, I'm aware of the irony in proclaiming my love for good writing using a sentence that starts with a preposition. But this is my first time wtiting in a while (see, I did it again).</>
