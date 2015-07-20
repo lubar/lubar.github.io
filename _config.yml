@@ -19,7 +19,7 @@ author :
   
 markdown: kramdown
 
-baseurl: lukebarrington.com
+baseurl: /
 description: Thoughts from an entrepreneur, hacker, product manager, dad
 
 # The production_url is only used when full-domain names are needed such as sitemap.txt 
