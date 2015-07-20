@@ -30,6 +30,7 @@ description: Thoughts from an entrepreneur, hacker, product manager &amp; dad
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://lukebarrington.com
+baseurl: /
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
