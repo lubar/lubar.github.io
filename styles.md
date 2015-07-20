@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-test
 title: Theme Styles
 ---
 
