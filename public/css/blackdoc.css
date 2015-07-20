@@ -301,7 +301,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
+.footnote {
+    font-size: small;
+}
 
 /*
  * Themes
