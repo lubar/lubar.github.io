@@ -286,8 +286,9 @@ a.sidebar-nav-item:focus {
 /*
  * Post Previews on homepage
  */
-.post-preview {
+ul .posts {
     list-style-type: none;
+    padding-left: 0;
 }
 .post-preview-title {
     background: silver;
