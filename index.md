@@ -10,12 +10,10 @@ tagline: lubar is fubar
         <a href="{{ BASE_PATH }}{{ post.url }}" class="img-link">
           <img src="{{ post.image }}" height="200" />
         </a>
-        <div class="post-preview-title">
-          <a href="{{ BASE_PATH }}{{ post.url }}">
-            {{ post.title }}
-            <span class="post-preview-date">{{ post.date | date_to_string }}</span>
-          </a>
-        </div>
+        <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
+          {{ post.title }}
+          <span class="post-preview-date">{{ post.date | date_to_string }}</span>
+        </a>
       </div>
       <p>
         {{ post.excerpt }}
