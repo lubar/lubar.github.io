@@ -303,6 +303,9 @@ ul.posts {
     width: 100%;
     font-size: 40px;
 }
+.post-preview-title a:hover {
+    color: gray;
+}
 .post-preview-date {
     position: absolute;
     bottom: 0; right: 4px;
