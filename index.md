@@ -8,10 +8,12 @@ Here's a sample "posts list".
 <ul class="posts">
   {% for post in site.posts %}
     <li class="post-preview">
-      <span>{{ post.date | date_to_string }}</span>
-      &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">{{ post.title }}</a>
+      <span class="post-preview-date">{{ post.date | date_to_string }}</span>
       <p>{{ post.excerpt }}</p>
-      <a href="{{ BASE_PATH}}{{ post.url }}" class="read-more">&raquo; Read More … </a>
+      <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
+        <i>&raquo; Read More … </i>
+      </a>
     </li>
   {% endfor %}
 </ul>
