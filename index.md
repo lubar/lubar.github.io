@@ -15,10 +15,12 @@ tagline: lubar is fubar
           <span class="post-preview-date">{{ post.date | date_to_string }}</span>
         </a>
       </div>
-      {{ post.excerpt }}
-      <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
-        <i>&raquo; Read More… </i>
-      </a>
+      <p>
+        {{ post.excerpt | remove '<p>' | remove '</p>'}}
+        <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
+          <i>&raquo; Read More… </i>
+        </a>
+      </p>
     </li>
   {% endfor %}
 
@@ -31,7 +33,7 @@ tagline: lubar is fubar
         </a>
       </div>
       <p>
-        {{ post.excerpt }}
+        {{ post.excerpt | remove '<p>' | remove '</p>'}}
         <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
           <i>&raquo; Read More… </i>
         </a>
