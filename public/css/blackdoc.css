@@ -303,8 +303,9 @@ ul.posts {
     width: 100%;
     font-size: 40px;
 }
-.post-preview-title a:hover {
+.post-preview-title a {
     color: gray;
+    text-decoration:none;
 }
 .post-preview-date {
     position: absolute;
