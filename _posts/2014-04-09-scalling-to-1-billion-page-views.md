@@ -4,7 +4,6 @@ category : lessons
 tagline: "Tomnod lessons for MH370"
 tags : [tomnod, AWS, MH370, tutorial]
 ---
-{% include JB/setup %}
 
 3 Tips for Scaling to 1 Billion Page Views
 =====================================================

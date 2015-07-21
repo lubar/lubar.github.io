@@ -5,7 +5,6 @@ tagline: ""
 tags : [thoughts]
 image: assets/writing.jpg
 ---
-{% include JB/setup %}
 
 New year, new resolutions, new ideas... but the same old procrastination.
 Among the many "best of", "new ideas" and "top X things about Y" emails we all got as we crossed the checkpoint between last year and this year, one slapped me in the face. 

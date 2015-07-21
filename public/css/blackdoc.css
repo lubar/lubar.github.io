@@ -313,6 +313,9 @@ a.post-preview-title:hover {
     bottom: 0; right: 4px;
     font-size: small;
 }
+.post-preview-read-more {
+    float: right;
+}
 
 /*
  * Reverse layout
