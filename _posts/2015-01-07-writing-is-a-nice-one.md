@@ -4,7 +4,7 @@ category : writing
 tagline: ""
 tags : [thoughts]
 image: assets/writing.jpg
-excerpt-separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 New year, new resolutions, new ideas... but the same old procrastination.
