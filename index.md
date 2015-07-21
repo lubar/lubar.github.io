@@ -24,7 +24,7 @@ tagline: lubar is fubar
     </li>
   {% endfor %}
 
-  {% for post in site.posts offset:1 limit: 9 %}
+  {% for post in site.posts offset:1 limit:9 %}
     <li>
       <div class="post-preview">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
