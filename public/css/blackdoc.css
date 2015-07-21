@@ -292,6 +292,7 @@ ul.posts {
 }
 .post-preview {
     position: relative;
+    min-height: 70px;
 }
 .post-preview-title {
     position: absolute;
