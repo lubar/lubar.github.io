@@ -290,10 +290,15 @@ ul.posts {
     list-style-type: none;
     padding-left: 0;
 }
+.post-preview {
+    position: relative;
+}
 .post-preview-image {
     min-height: 200px;
 }
 .post-preview-title {
+    position: absolute;
+    bottom: 0;
     background: silver;
     color: black;
 }
