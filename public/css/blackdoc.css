@@ -286,7 +286,7 @@ a.sidebar-nav-item:focus {
 /*
  * Post Previews on homepage
  */
-ul .posts {
+ul.posts {
     list-style-type: none;
     padding-left: 0;
 }
