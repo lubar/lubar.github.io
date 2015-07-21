@@ -18,8 +18,9 @@ Some people call Product Managers a "mini-CEO" since you own all aspects of the 
 However, there's one big difference between a product manager and a CEO: although you have all the responsibility, **no one actually works for you**!
 
 This is what I call the *Product Manager's Dilema*.
-The PM holds the product vision, owns the customer requirements, often sets pricing and is responsible for the deadlines and successful introduction of the next big thing that companies are banking on.
+The PM holds the product vision, owns the customer requirements, sets pricing and is responsible for the deadlines and successful introduction of the next big thing that the company is banking on.
 But they take all this on without having direct control over Engineering or ownership of the Sales and Marketing functions. 
+So what does it take to be a successful product manager?
 
 Instead, the Product Manager must succeed through influence
 
