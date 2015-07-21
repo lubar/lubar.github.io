@@ -297,9 +297,10 @@ ul.posts {
 .post-preview-title {
     position: absolute;
     bottom: 0;
-    background-color: #333;
-    color: white;
+    background-color: rgba(200,200,200,0.75);
+    color: black;
     min-height:60px;
+    width: 100%;
 }
 .post-preview-date {
     float: right;
