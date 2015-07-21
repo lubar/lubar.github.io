@@ -284,6 +284,9 @@ a.sidebar-nav-item:focus {
 }
 
 .post-preview {
+    list-style-type: none;
+}
+.post-preview-title {
     background: silver;
     color: orange;
 }
