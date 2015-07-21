@@ -9,7 +9,8 @@ excerpt_separator: <!--more-->
 
 New year, new resolutions, new ideas... but the same old procrastination.
 Among the many "best of", "new ideas" and "top X things about Y" emails we all got as we crossed the checkpoint between last year and this year, one slapped me in the face. 
-[Make 2015 the year you get started writing](https://medium.com/medium-writing-prompts/what-prepares-you-for-the-day-569939b9525e)<!--more-->[^1].
+
+[Make 2015 the year you get started writing](https://medium.com/medium-writing-prompts/what-prepares-you-for-the-day-569939b9525e)[^1].
 
 I've had [blogs](http://doubtfulsound.blogspot.ie/), I'm pretty active on [Twitter](http://twitter.com/lukeinusa) and I write a ton of emails but, with the days of writing college papers and school essays long behind me, I don't really *write* much anymore.
 
