@@ -26,7 +26,7 @@ tagline: lubar is fubar
 
   {% for post in site.posts offset:1 limit:9 %}
     <li>
-      <div class="post-preview">
+      <div class="post-preview" style="margin-top:40px;">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
           {{ post.title }}
           <span class="post-preview-date">{{ post.date | date_to_string }}</span>
