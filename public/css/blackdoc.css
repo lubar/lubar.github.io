@@ -290,11 +290,12 @@ ul.posts {
     list-style-type: none;
     padding-left: 0;
 }
+.post-preview-image {
+    min-height: 200px;
+}
 .post-preview-title {
     background: silver;
     color: black;
-    -webkit-margin-after: 0;
-    margin-after: 0;
 }
 .post-preview-date {
     float: right;
