@@ -283,6 +283,11 @@ a.sidebar-nav-item:focus {
   color: #caad00;
 }
 
+.post-preview {
+    background: silver;
+    color: orange;
+}
+
 /*
  * Reverse layout
  *
