@@ -4,7 +4,8 @@ title: About
 ---
 
 <p class="message">
-My name is Luke Barrington. Startup founder, computer hacker and business leader.
+My name is Luke Barrington.<br/>
+I'm a startup founder, angel investor, computer hacker and business leader.<br/>
 I try to create technology that turns good ideas into great products. 
 </p>
 
