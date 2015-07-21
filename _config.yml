@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : lubar is fubar
-tagline: hacker thoughts
+title : Beyond all Recognition
+tagline: lubar is fubar
 author :
   name : Luke Barrington
   email : lukeinusa@gmail.com
@@ -20,7 +20,7 @@ author :
   
 markdown: kramdown
 
-description: Thoughts from an entrepreneur, hacker, product manager &amp; dad
+description: Thoughts from an entrepreneur, hacker, product fanatic &amp; dad
 
 # The production_url is only used when full-domain names are needed such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
