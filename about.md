@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Luke Barrington
+title: About Me
 ---
 
 <p class='message'>
-My name is Luke.<br/>
+My name is Luke Barrington.<br/>
 I'm a startup founder, angel investor, computer hacker and business leader.<br/>
 I try to create technology that turns good ideas into great products.<br/>
 Get in touch at lukeinusa [at] gmail [dot] com
