@@ -292,8 +292,6 @@ ul.posts {
 }
 .post-preview {
     position: relative;
-}
-.post-preview-image {
     min-height: 200px;
 }
 .post-preview-title {
