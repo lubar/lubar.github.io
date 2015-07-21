@@ -12,7 +12,7 @@ I started as a technologist, with a PhD in computer engineering and a deep intui
 Taking these ideas and putting them online for the world to play with taught me to become a coder and I immersed myself in web programming, databases and whole lot of [StackOverflow](http://stackoverflow.com/users/212602/lubar). 
 The final step in this evolution has been to take ideas implemented in software and match them up with actual needs of real -- hopefully paying -- users in the marketplace.
 
-![Product Manager: Jack of all trades](/public/images/product-manager.png)
+![Product Manager: Jack of all trades](/public/images/product-management.png)
 
 This intersection of technology, design and market has led me to my current career as a Product Manager. 
 The product manager role is often overlooked or misunderstood but I guarantee that every great products and service you know, love and crave - think GMail, iPhone, GoPro or the Tesla Model S - has (a team of) obsessive product managers who's only ambition is to see you, and millions like you, use and enjoy these fantastic things.
@@ -29,4 +29,5 @@ Most good engineers want to build things that actually get used. It's the PM's j
 Designers are worthless without user-feedback. The cycle of design, test and iterate is overseen by a product manager.
 Sales people just want to make their number. By arming them with killer products, validated by market demand and backed by great collateral (competitive pricing, compelling marketing, killer value propositions) they'll be only too happy to pimp out your new product to an eager audience.
 
-So the Product Manager's Dilemma 
+All of this takes a rare intersection of talents: data-driven market analysis, technological fluency, customer communication, market intuition and the chutzpah to pull it all together, rally the organization to your cause and bend the market to your will.
+Add it all up and maybe you can be the solution to the Product Manager's Dilemma!
