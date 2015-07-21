@@ -303,7 +303,7 @@ ul.posts {
     width: 100%;
     font-size: 40px;
 }
-a.post-preview-title {
+a.post-preview-title:hover {
     color: gray;
     text-decoration:none;
 }
