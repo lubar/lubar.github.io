@@ -303,7 +303,7 @@ ul.posts {
     width: 100%;
     font-size: 40px;
 }
-.post-preview-title a {
+a.post-preview-title {
     color: gray;
     text-decoration:none;
 }
