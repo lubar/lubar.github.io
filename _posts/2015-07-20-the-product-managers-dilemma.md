@@ -4,7 +4,7 @@ category: writing
 title: The Product Manager's Dilemma
 tagline: ""
 tags : [thoughts, technology]
-image: assets/writing.jpg
+image: /public/images/product-management.png
 ---
 
 The past few years have taken me on an entrepreneurial and professional journey. 
