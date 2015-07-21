@@ -15,12 +15,10 @@ tagline: lubar is fubar
           <span class="post-preview-date">{{ post.date | date_to_string }}</span>
         </a>
       </div>
-      <p>
-        {{ post.excerpt }}
-        <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
-          <i>&raquo; Read More… </i>
-        </a>
-      </p>
+      {{ post.excerpt }}
+      <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
+        <i>&raquo; Read More… </i>
+      </a>
     </li>
   {% endfor %}
 
