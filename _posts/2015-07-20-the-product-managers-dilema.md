@@ -1,8 +1,9 @@
 ---
 layout: post
-category : writing
+category: writing
+title: The Product Manager's Dilema
 tagline: ""
-tags : [thoughts]
+tags : [thoughts, technology]
 image: assets/writing.jpg
 ---
 
