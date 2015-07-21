@@ -7,7 +7,6 @@ tags : [tomnod, AWS, MH370, tutorial]
 
 3 Tips for Scaling to 1 Billion Page Views
 =====================================================
-
 Last week was a time of stress, uncertainty and emotion as millions of people around the world searched and waited for any news about the location of the missing Malaysia Airlines flight 370 that disappeared on the evening of Friday March 7. It was also a week of stress, uncertainty and emotion for the Tomnod developers as we scrambled to support millions of people from around the world searching the possible crash location on Tomnod.com. 
 
 Our crowdsourcing campaign inviting the public to search DigitalGlobe satellite images and help identify clues about the plane’s whereabouts received a phenomenal response. In the first 24 hours, we received half a million unique users and recorded 25M page views. Over the week, traffic grew to 1 billion views as the crowd searched xxTB of high-resolution DigitalGlobe imagery, covering almost 1,000,000km<sup>2</sup> of the surface of the earth. We were featured on the front page of [Reddit](http://www.reddit.com/r/news/comments/2073hv/malaysia_airlines_370_tomnod_thread/), CNN, Fox News and other media and, best of all, we got thousands of emails, tweets, Facebook messages and phone calls from our amazing crowd.
