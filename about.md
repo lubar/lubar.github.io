@@ -3,9 +3,11 @@ layout: page
 title: Luke Barrington
 ---
 
-My name is Luke Barrington.
-I'm a startup founder, angel investor, computer hacker and business leader.
+<p class='message'>
+My name is Luke Barrington.<br/>
+I'm a startup founder, angel investor, computer hacker and business leader.<br/>
 I try to create technology that turns good ideas into great products. 
+</p>
 
 * Raised in Dublin, Ireland. Still love to get home whenever I can.
 * PhD in Computer Engineering with a thesis that pioneered the use of online crowdsourcing to train smarter machine learning algorithms.
