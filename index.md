@@ -10,7 +10,7 @@ tagline: lubar is fubar
         <a href="{{ BASE_PATH }}{{ post.url }}" class="img-link">
           <img src="{{ post.image }}" height="280" />
         </a>
-        <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
+        <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title" style="position:absolute;">
           {{ post.title }}
           <span class="post-preview-date">{{ post.date | date_to_string }}</span>
         </a>
@@ -24,8 +24,7 @@ tagline: lubar is fubar
     </li>
   {% endfor %}
 
-  
-  {% for post in site.posts offset:1 limit: 9%}
+  {% for post in site.posts offset:1 limit: 9 %}
     <li>
       <div class="post-preview">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
