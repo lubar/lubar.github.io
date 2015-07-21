@@ -8,7 +8,7 @@ tagline: lubar is fubar
     <li>
       <div class="post-preview">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="img-link">
-          <img src="{{ post.image }}" height="200" />
+          <img src="{{ post.image }}" height="280" />
         </a>
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
           {{ post.title }}
