@@ -8,10 +8,10 @@ Here's a sample "posts list".
 <ul class="posts">
   {% for post in site.posts %}
     <li class="post-preview">
-      <div class="post-preview-title">
+      <p class="post-preview-title">
         <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
         <span class="post-preview-date">{{ post.date | date_to_string }}</span>
-      </div>
+      </p>
       <p>{{ post.excerpt }}</p>
       <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
         <i>&raquo; Read More … </i>
