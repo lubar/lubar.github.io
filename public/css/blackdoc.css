@@ -293,6 +293,8 @@ ul.posts {
 .post-preview-title {
     background: silver;
     color: black;
+    -webkit-margin-after: 0;
+    margin-after: 0;
 }
 .post-preview-date {
     float: right;
