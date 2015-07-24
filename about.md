@@ -4,15 +4,17 @@ title: About Luke
 ---
 
 <div class='message'>
-	<div class="portrait">
-		<img src="/public/images/luke-head.jpg">
-	</div>
-	<div style="float:right">
+  <table><tr>
+	<td class="portrait">
+	  <img src="/public/images/luke-head.jpg">
+	</td>
+	<td>
 	My name is Luke Barrington.<br/>
 	I'm a startup founder, angel investor, computer hacker and business leader.<br/>
 	I try to create technology that turns good ideas into great products.<br/>
 	Get in touch at lukeinusa [at] gmail [dot] com
-	</div>
+	</td>
+  </tr></table>
 </div>
 
 * Raised in Dublin, Ireland, living in Boulder, Colorado. Still love to get home whenever I can.

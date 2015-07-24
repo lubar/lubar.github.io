@@ -209,7 +209,6 @@ tbody tr:nth-child(odd) th {
 
 .portrait {
 	width: 200px;
-	display: table-cell;
 }
 
 /* Sidebar nav */
