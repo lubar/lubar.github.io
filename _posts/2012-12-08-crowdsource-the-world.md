@@ -3,7 +3,7 @@ layout: post
 category: speaking
 title: Crowdsource the World
 tagline: ""
-tags : [thoughts, speaking]
+tags : [crowdsourcing, speaking]
 image: /public/images/product-management.png
 ---
 
@@ -13,6 +13,6 @@ Even more amazing, I got to share my thoughts with a packed house about crowdsou
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/sQh-_OTdICM" frameborder="0" allowfullscreen></iframe>
 
-I look forward to more inspirational events and spreading the word about how technology can change the world[^1]. 
+I look forward to speaking at more inspirational events like this and spreading the word about how technology can change the world[^1]. 
 
-[^1]: on the topic of using technology to change the world, shout out to Christian Genco who spoke right before me on why [you should learn to program](http://christian.gen.co/you-should-learn-to-program)!
+[^1]: On the topic of using technology to change the world, shout out to Christian Genco who spoke right before me on why [you should learn to program](http://christian.gen.co/you-should-learn-to-program)!
