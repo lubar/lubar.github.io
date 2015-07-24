@@ -4,9 +4,9 @@ title: About Luke
 ---
 
 <div class='message'>
-  <table><tr>
+  <table style="margin:0;"><tr>
 	<td class="portrait">
-	  <img src="/public/images/luke-head.jpg">
+	  <img src="/public/images/luke-head.jpg" style="margin:0;">
 	</td>
 	<td>
 	My name is Luke Barrington.<br/>
