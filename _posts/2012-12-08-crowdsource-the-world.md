@@ -4,7 +4,7 @@ category: speaking
 title: Crowdsource the World
 tagline: ""
 tags : [crowdsourcing, speaking]
-image: /public/images/product-management.png
+image: 
 ---
 
 Recently I had the great pleasure to speak at TEDx SMU, one of the original TEDx events. 

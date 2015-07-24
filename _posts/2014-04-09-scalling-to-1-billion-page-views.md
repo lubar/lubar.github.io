@@ -1,7 +1,7 @@
 ---
 layout: post
-category : lessons
-tagline: "Tomnod lessons for MH370"
+category : writing
+tagline: Tomnod lessons from MH370
 tags : [tomnod, AWS, MH370, tutorial]
 ---
 

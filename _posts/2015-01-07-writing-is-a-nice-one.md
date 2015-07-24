@@ -1,9 +1,10 @@
 ---
 layout: post
 category : writing
+title: Writing is a Nice One
 tagline: ""
 tags : [thoughts]
-image: assets/writing.jpg
+image: /public/images/writing.jpg
 excerpt_separator: <!--more-->
 ---
 

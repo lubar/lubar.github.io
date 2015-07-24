@@ -4,7 +4,7 @@ category: speaking
 title: Adventures With Tomnod
 date: 2015-04-24
 categories: [tomnod, speaking]
-image: /assets/images/luke_and_genghis.jpg
+image: /public/images/luke_and_genghis.jpg
 ---
 
 Five years ago, the idea of [Tomnod](http://tomnod.com) was born on the remote plains of Mongolia (in case you didn't know, ["*Tomnod*" means "*Big Eye*" in Mongolian](http://blog.tomnod.com/meaning-of-tomnod/)).

@@ -4,7 +4,7 @@ category: writing
 title: Investors can Stick it Wherever
 date: 2015-04-24
 categories: [startups, tv, investment]
-image: /assets/images/luke_and_genghis.jpg
+image: /public/images/kimmy-schmidt.jpg
 ---
 
 Over the past two weeks Laia and I binge-watched the Netflix series, [Unbreakable Kimmy Schmidt](https://www.netflix.com/title/80025384).
