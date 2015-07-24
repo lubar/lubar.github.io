@@ -16,7 +16,7 @@ tagline: lubar is fubar
         </a>
       </div>
       <p>
-        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        {{ post.content | remove: '<p>' | remove: '</p>' }}
         <a href="{{ BASE_PATH}}{{ post.url }}" class="post-preview-read-more">
           <i>&raquo; Read More… </i>
         </a>
