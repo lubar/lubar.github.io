@@ -3,7 +3,7 @@ layout: page
 tagline: lubar is fubar
 ---
   {% for post in site.posts limit:1 %}
-    <article id="post.title">
+    <article id="{{post.title}}">
 		<div class="post-preview">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title" style="position:absolute;">
           {{ post.title }}
@@ -18,7 +18,7 @@ tagline: lubar is fubar
   {% endfor %}
 
   {% for post in site.posts offset:1 limit:9 %}
-    <article id="post.title">
+    <article id="{{post.title}}">
 		{% if post.image != null %}
 		<a href="{{ BASE_PATH }}{{ post.url }}" class="img-link">
           <img src="{{ post.image }}" height="280" style="margin:0;"/>
