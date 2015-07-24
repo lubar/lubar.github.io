@@ -3,7 +3,7 @@ layout: page
 tagline: lubar is fubar
 ---
   {% for post in site.posts limit:1 %}
-    <article id="{{post.title}}">
+  <article id="{{post.title}}">
 		<div class="post-preview">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title" style="position:absolute;">
           {{ post.title }}
@@ -13,8 +13,8 @@ tagline: lubar is fubar
       <p>
         {{ post.content | remove: '<p>' | remove: '</p>' }}
       </p>
-    </article>
-	<hr>
+  </article>
+  <hr>
   {% endfor %}
 
   {% for post in site.posts offset:1 limit:9 %}
