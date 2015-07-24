@@ -11,7 +11,7 @@ tagline: lubar is fubar
     </a>
   </div>
   <p>
-    {{ post.content | remove: '<p>' | remove: '</p>' }}
+    {{ post.content }}
   </p>
 </article>
 <hr>

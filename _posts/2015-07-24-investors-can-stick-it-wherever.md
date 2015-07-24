@@ -16,13 +16,13 @@ The wife is reviewing her legal options with her divorce lawyer who tells her sh
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ZOkG51TKIxw" frameborder="0" allowfullscreen></iframe>
 
-> Lawyer:        Sorry, but this prenup is pretty ironclad.<br/>
-> Lawyer:        The good news is you never violated the infidelity clause. <br/>
-> Mrs. Voorhees: But Julian did. <br/>
-> Lawyer:        Unfortunately, it only pertained to you. <br/>
+> *Lawyer*:        Sorry, but this prenup is pretty ironclad.<br/>
+> *Lawyer*:        The good news is you never violated the infidelity clause. <br/>
+> *Mrs. Voorhees*: But Julian did. <br/>
+> *Lawyer*:        Unfortunately, it only pertained to you. <br/>
 > <br/>
-> Lawyer:        Pursuant to the codicil, paragraph three, Mr. Voorhees retained the right to (*looks up legal language*)... **"stick it wherever."** 
-> Lawyer:        At the end of the day, the financial settlement is what it is.
+> *Lawyer*:        Pursuant to the codicil, paragraph three, Mr. Voorhees retained the right to (*looks up legal language*)... **"stick it wherever."** <br/>
+> *Lawyer*:        At the end of the day, the financial settlement is what it is.
 
 This legal lockdown made me think of the contract that startups enter into with their investors. 
 On the one hand, the startup commits fully to the relationship, putting their heart and soul on the line for the companionship -- and dollars -- offered by their new partner.
