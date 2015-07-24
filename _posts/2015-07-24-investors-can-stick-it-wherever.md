@@ -18,7 +18,7 @@ The wife is reviewing her legal options with her divorce lawyer who tells her sh
 
 > *Lawyer*:        Sorry, but this prenup is pretty ironclad.<br/>
 > *Lawyer*:        The good news is you never violated the infidelity clause. <br/>
-> *Mrs. Voorhees*: But Julian did. <br/>
+> *Mrs. Voorhees*: But Julian did! <br/>
 > *Lawyer*:        Unfortunately, it only pertained to you. <br/>
 > <br/>
 > *Lawyer*:        Pursuant to the codicil, paragraph three, Mr. Voorhees retained the right to (*looks up legal language*)... **"stick it wherever."** <br/>
@@ -32,5 +32,5 @@ Now, I'm not trying to say that investors are all rich, lecherous tyrants who on
 I just think it's important that startups understand the terms of the deal and the relationship they're entering in to. 
 You are getting married to your investor and, while you must remain faithful, the investor will take take other lovers.
 
-Like a good marriage, the best investments will last a lifetime and reap great rewards for both the parties in the relationship. 
-But, if things go south, make sure you have a better lawyer than Mrs. Voorhees!
+Like a good marriage, the best investments last a lifetime and reap great rewards for both the parties in the relationship. 
+But if things go south, make sure you have a better lawyer than Mrs. Voorhees!

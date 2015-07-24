@@ -202,7 +202,11 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
+}
 
+.portrait {
+	width: 200px;
+	float: left;
 }
 
 /* Sidebar nav */
