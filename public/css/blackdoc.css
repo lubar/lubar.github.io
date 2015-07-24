@@ -144,7 +144,10 @@ tbody tr:nth-child(odd) th {
 .message {
   color: #bbb;
   background-color: #333;
+  padding: 0;
+  display: table;
 }
+.
 
 /* Gist */
 .gist-data {
@@ -206,7 +209,7 @@ tbody tr:nth-child(odd) th {
 
 .portrait {
 	width: 200px;
-	float: left;
+	display: table-cell;
 }
 
 /* Sidebar nav */
