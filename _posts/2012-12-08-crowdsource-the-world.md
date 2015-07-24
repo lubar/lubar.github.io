@@ -11,7 +11,7 @@ Recently I had the great pleasure to speak at TEDx SMU, one of the original TEDx
 Sharing the stage with the likes of undersea explorer [David Gallo](https://www.ted.com/speakers/david_gallo), ground-breaking journalist [Molly Bingham](http://www.meetmollybingham.com/) and spectacular cinematographer [Louie Schwartzberg](https://www.ted.com/speakers/louie_schwartzberg) was a humbling honor. 
 Even more amazing, I got to share my thoughts with a packed house about crowdsourcing, digital activism and get some help in my search for silver sneakers!
 
-<iframe width="560" height="405" src="https://www.youtube.com/embed/sQh-_OTdICM" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/sQh-_OTdICM" frameborder="0" allowfullscreen></iframe>
 
 I look forward to more inspirational events and spreading the word about how technology can change the world[^1]. 
 
