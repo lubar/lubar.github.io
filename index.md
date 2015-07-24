@@ -23,6 +23,11 @@ tagline: lubar is fubar
 		<a href="{{ BASE_PATH }}{{ post.url }}" class="img-link">
           <img src="{{ post.image }}" height="280" style="margin:0;"/>
         </a>
+		{% else %}
+		<div style="margin-top:110px">
+			&nbsp;
+		</div>
+		
 		{% endif %}
 		<div class="post-preview">
 			<a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
