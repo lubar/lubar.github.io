@@ -2,10 +2,9 @@
 layout: page
 tagline: lubar is fubar
 ---
-<ul class="posts">
   {% for post in site.posts limit:1 %}
-    <li>
-      <div class="post-preview">
+    <article id="post.title">
+		<div class="post-preview">
         <a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title" style="position:absolute;">
           {{ post.title }}
           <span class="post-preview-date">{{ post.date | date_to_string }}</span>
@@ -14,11 +13,12 @@ tagline: lubar is fubar
       <p>
         {{ post.content | remove: '<p>' | remove: '</p>' }}
       </p>
-    </li>
+    </article>
+	<hr>
   {% endfor %}
 
   {% for post in site.posts offset:1 limit:9 %}
-    <li>
+    <article id="post.title">
 		{% if post.image != null %}
 		<a href="{{ BASE_PATH }}{{ post.url }}" class="img-link">
           <img src="{{ post.image }}" height="280" style="margin:0;"/>
@@ -41,7 +41,5 @@ tagline: lubar is fubar
 				<i>&raquo; Read More… </i>
 			</a>
 		</p>
-    </li>
+    </article>
   {% endfor %}
-</ul>
-
