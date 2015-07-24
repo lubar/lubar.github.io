@@ -2,7 +2,7 @@
 layout: post
 category: writing
 title: Investors can Stick it Wherever
-date: 2015-04-24
+date: 2015-07-24
 categories: [startups, tv, investment]
 image: /public/images/kimmy-schmidt.jpg
 ---
