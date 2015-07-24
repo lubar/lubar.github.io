@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Beyond All Regognition
 tagline: lubar is fubar
 ---
 <ul class="posts">
@@ -25,7 +24,7 @@ tagline: lubar is fubar
           <img src="{{ post.image }}" height="280" style="margin:0;"/>
         </a>
 		{% endif %}
-		<div class="post-preview" style="margin-top:40px;">
+		<div class="post-preview">
 			<a href="{{ BASE_PATH }}{{ post.url }}" class="post-preview-title">
 				{{ post.title }}
 				<span class="post-preview-date">{{ post.date | date_to_string }}</span>
