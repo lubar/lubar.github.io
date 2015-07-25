@@ -35,3 +35,5 @@ You are getting married to your investor and, while you must remain faithful, th
 
 Like a good marriage, the best investments last a lifetime and reap great rewards for both the parties in the relationship. 
 But if things go south, make sure you have a better lawyer than Mrs. Voorhees!
+
+{% include twitter_plug.html %}
