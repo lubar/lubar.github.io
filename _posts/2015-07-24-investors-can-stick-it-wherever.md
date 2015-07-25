@@ -5,6 +5,7 @@ title: Investors can Stick it Wherever
 date: 2015-07-24
 categories: [startups, tv, investment]
 image: /public/images/kimmy-schmidt.jpg
+comments: true
 ---
 
 Over the past two weeks Laia and I binge-watched the Netflix series, [Unbreakable Kimmy Schmidt](https://www.netflix.com/title/80025384).
@@ -34,3 +35,5 @@ You are getting married to your investor and, while you must remain faithful, th
 
 Like a good marriage, the best investments last a lifetime and reap great rewards for both the parties in the relationship. 
 But if things go south, make sure you have a better lawyer than Mrs. Voorhees!
+
+{% include twitter_plug.html %}
