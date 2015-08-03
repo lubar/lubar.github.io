@@ -303,7 +303,9 @@ ul.posts {
 .post-preview-title {
     position: absolute;
     bottom: 0;
-    background-color: rgba(255,255,255,0.75);
+    background-color: rgba(0,0,0,0.5);
+	font-family: 'EB Garamond', serif; 
+	font-style: italic;
     color: black;
     min-height:60px;
     width: 100%;
@@ -311,7 +313,7 @@ ul.posts {
     padding-left: 12px;
 }
 a.post-preview-title:hover {
-    color: #330;
+    color: #ffeb99;
     text-decoration:none;
 }
 .post-preview-date {
