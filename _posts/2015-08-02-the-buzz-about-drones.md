@@ -9,7 +9,7 @@ comments: True
 ---
 
 There's a lot of excitement, curiosity and concern about our not-to-distant future when the sky turns dark with drones. 
-Whether they're [fighting our wars](https://www.youtube.com/watch?v=hZV8IfJm-MI), [getting the world online](http://venturebeat.com/2015/07/30/facebooks-new-massive-drone-will-beam-the-internet-down-to-developing-countries/) or just [delivering our shopping](www.amazon.com/primeair), the possibilities for unmanned aerial vehicles seem vast. 
+Whether they're [fighting our wars](https://www.youtube.com/watch?v=hZV8IfJm-MI), [getting the world online](http://venturebeat.com/2015/07/30/facebooks-new-massive-drone-will-beam-the-internet-down-to-developing-countries/) or just [delivering our shopping](http://www.amazon.com/primeair), the possibilities for unmanned aerial vehicles seem vast. 
 But we're only just starting to see the startups and technologies emerge that will bring drones into the mainstream.
 
 So why is now the time to innovate and invest in drones?<br/>
