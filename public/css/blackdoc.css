@@ -306,14 +306,14 @@ ul.posts {
     background-color: rgba(0,0,0,0.5);
 	font-family: 'EB Garamond', serif; 
 	font-style: italic;
-    color: black;
+    color: #ffeb99;
     min-height:60px;
     width: 100%;
     font-size: 40px;
     padding-left: 12px;
 }
 a.post-preview-title:hover {
-    color: #ffeb99;
+    color: #caad00;
     text-decoration:none;
 }
 .post-preview-date {
