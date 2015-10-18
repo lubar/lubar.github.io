@@ -9,7 +9,7 @@ comments: True
 ---
 
 > <emph>"Any plans for the weekend?"</emph><br/>
->... was my innocent question as Nate, Dima and I carpooled to work earlier this week.
+>... was my innocent question as Nate, Dima and I carpooled earlier this week.
 ><emph>"I'm going to climb Longs Peak!"</emph><br/>
 >... was Dima's nonchalant response.
 
