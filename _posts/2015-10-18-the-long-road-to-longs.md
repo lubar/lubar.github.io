@@ -8,10 +8,10 @@ image: /public/images/pullharder.jpg
 comments: True
 ---
 
-<emph>"Any plans for the weekend?"</emph><br/>
-... was my innocent question as Nate, Dima and I carpooled to work earlier this week.
-<emph>"I'm going to climb Longs Peak!"</emph><br/>
-... was Dima's nonchalant response.
+> <emph>"Any plans for the weekend?"</emph><br/>
+>... was my innocent question as Nate, Dima and I carpooled to work earlier this week.
+><emph>"I'm going to climb Longs Peak!"</emph><br/>
+>... was Dima's nonchalant response.
 
 Ever since moving to Colorado over two years ago, [Longs Peak](https://en.wikipedia.org/wiki/Longs_Peak) has loomed over me. Its silhouette dominates the Front Range. Menacing in winter, majestic in summer, the 4,346 meter summit seems to issue a constant challenge to all those who live in its shadow.
 
