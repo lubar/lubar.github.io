@@ -235,6 +235,10 @@ img {
   border-radius: 5px;
 }
 
+.post-image {
+	margin: 0; padding: 0;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -252,7 +256,9 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
+table.image {
+	border: 0; padding: 0; margin: 0;
+}
 /*
  * Custom type
  *
