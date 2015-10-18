@@ -13,14 +13,15 @@ comments: True
 > I'm going to climb Longs Peak!<br/>
 ... was Dima's nonchalant response.
 
-Ever since moving to Colorado over two years ago, the [Longs Peak](https://en.wikipedia.org/wiki/Longs_Peak) has loomed over me. Its silhouette dominates the Front Range. Menacing in winter, majestic in summer, the face of the diamond and the 4,346 meter summit seems to issue a constant challenge to all those who live in its shadow.
+Ever since moving to Colorado over two years ago, [Longs Peak](https://en.wikipedia.org/wiki/Longs_Peak) has loomed over me. Its silhouette dominates the Front Range. Menacing in winter, majestic in summer, the face of the diamond and the 4,346 meter summit seems to issue a constant challenge to all those who live in its shadow.
 
 > "A wise man will climb Mt Fuji once; a fool will climb Mt Fuji twice."
 > -- Japanese proverb
 
 When I lived in Japan, I took this proverb to so much to heart that I applied a simple linear regression to the formula and concluded that the wisest man of all would never climb Fuji-san! Longs was different though and so, when Dima issued the challenge, I knew that this was my chance. Training, conditioning, preparation be damned, I would never find the perfect moment. Nate, Dima and I prepared for an adventure.
 
-![Japanese wisdom meets linear regression](/public/images/fuji-wisdom.png)
+![Japanese wisdom meets linear regression](/public/images/fuji-wisdom.jpg)
+{% include image.html url="/public/images/fuji-wisdom.jpg" description="Japanese wisdom meets linear regression" %}
 
 Saturday morning at 3am we set off from Boulder. A drowsy hour and a half later, with coffee and excitement just starting to kick in, we arrive at the trailhead with only starlight to illuminate the pitch blackness. We pack food, water, hiking poles and crampons (but decide to leave the ice axes behind) and set off on the trail. 
 
