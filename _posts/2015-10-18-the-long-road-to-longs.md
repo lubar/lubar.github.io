@@ -8,15 +8,15 @@ image: /public/images/pullharder.jpg
 comments: True
 ---
 
-> Any plans for the weekend?<br/>
+> Any plans for the weekend?
 ... was my innocent question as Nate, Dima and I carpooled to work earlier this week.
-> I'm going to climb Longs Peak!<br/>
+> I'm going to climb Longs Peak!
 ... was Dima's nonchalant response.
 
 Ever since moving to Colorado over two years ago, [Longs Peak](https://en.wikipedia.org/wiki/Longs_Peak) has loomed over me. Its silhouette dominates the Front Range. Menacing in winter, majestic in summer, the face of the diamond and the 4,346 meter summit seems to issue a constant challenge to all those who live in its shadow.
 
 > "A wise man will climb Mt Fuji once; a fool will climb Mt Fuji twice."
-> -- Japanese proverb
+>                                                        -- Japanese proverb
 
 When I lived in Japan, I took this proverb to so much to heart that I applied a simple linear regression to the formula and concluded that the wisest man of all would never climb Fuji-san! Longs was different though and so, when Dima issued the challenge, I knew that this was my chance. Training, conditioning, preparation be damned, I would never find the perfect moment. Nate, Dima and I prepared for an adventure.
 
