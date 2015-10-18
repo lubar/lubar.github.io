@@ -16,7 +16,7 @@ comments: True
 Ever since moving to Colorado over two years ago, [Longs Peak](https://en.wikipedia.org/wiki/Longs_Peak) has loomed over me. Its silhouette dominates the Front Range. Menacing in winter, majestic in summer, the 4,346 meter summit seems to issue a constant challenge to all those who live in its shadow.
 
 > "A wise man will climb Mt Fuji once; a fool will climb Mt Fuji twice."
-> > -- Japanese proverb
+>   - - Japanese proverb
 
 When I lived in Japan, I took this proverb to so much to heart that I applied a simple linear regression to the formula and concluded that the wisest man of all would never climb Fuji-san! Longs was different though so, when Dima issued the challenge, I knew that this was my chance. Training, conditioning, preparation be damned, I would never find the perfect moment. Nate, Dima and I were going on an adventure.
 
@@ -46,7 +46,7 @@ We share smiles, high-fives and chocolate. We take photos and witness the view s
 {% include image.html url="/public/images/high-point.jpg" description="On top of the world" %}
 
 > "The summit is only half way!"<br/>
-> > -- Dr. Shay Shmuel Sean Har-Noy
+>  - - Dr. Shay Shmuel Sean Har-Noy
 
 Feeling recharged, we make our way back down the Homestretch. The drudgery of upslopes gives way to the treachery of sliding downhill. Hearts still beating we make it to the Narrows, a skinny path along a cliff face with a steep drop-off to our left. Making room for hikers on their way up becomes a dangerous dance. Next we face the deep, snowy Trough. We half climb, half slide down the shaded, icy rocks, enviously eyeing the treeline in the valley far below. With wobbly knees and jelly legs, there's another grueling traverse before we emerge at the Keyhole. Wearily we munch a last sandwich and finish our last drops of water. We navigate the ankle-busting Boulder Field and I'm very grateful that this is the first time I've used a hiking pole. Eventually we escape the rocks and are back on an actual trail. 
 
