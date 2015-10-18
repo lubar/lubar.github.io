@@ -9,20 +9,20 @@ comments: True
 ---
 
 <span style="font-style: italic">"Any plans for the weekend?"</span><br/>... was my innocent question as Nate, Dima and I carpooled earlier this week.<br/>
-<span style="font-style: italic">"I'm going to climb Longs Peak!"<br/>... was Dima's nonchalant response.
+<span style="font-style: italic">"I'm going to climb Longs Peak!"</span><br/>... was Dima's nonchalant response.
 
 Ever since moving to Colorado over two years ago, [Longs Peak](https://en.wikipedia.org/wiki/Longs_Peak) has loomed over me. Its silhouette dominates the Front Range. Menacing in winter, majestic in summer, the 4,346 meter summit seems to issue a constant challenge to all those who live in its shadow.
 
-> "A wise man will climb Mt Fuji once; a fool will climb Mt Fuji twice."
+> "A wise man will climb Mt Fuji once; a fool will climb Mt Fuji twice."<br>
 >   - - Japanese proverb
 
-When I lived in Japan, I took this proverb to so much to heart that I applied a simple linear regression to the formula and concluded that the wisest man of all would never climb Fuji-san! Longs was different though so, when Dima issued the challenge, I knew that this was my chance. Training, conditioning, preparation be damned, I would never find the perfect moment. Nate, Dima and I were going on an adventure.
+When I lived in Japan, I took this proverb so much to heart that I applied a simple linear regression to the formula and concluded that the wisest man of all would never climb Fuji-san! Longs was different though. Longs was personal. So when Dima issued the challenge, I knew that this was my chance. Training, conditioning, preparation be damned, I would never find the perfect moment. Nate, Dima and I were going on an adventure.
 
 {% include image.html url="/public/images/fuji-wisdom.jpg" description="Japanese wisdom meets linear regression" %}
 
 Saturday morning at 3am we set off from Boulder. A drowsy hour and a half later, with coffee and excitement just starting to kick in, we arrive at the trailhead with only starlight to illuminate the pitch blackness. We pack food, water, hiking poles and crampons (but decide to leave the ice axes behind) and set off on the trail. 
 
-The Longs trailhead starts at 9,200 feet elevation and keeps going up from there. We make a brisk pace as our legs wake up and we're keen to put distance behind us. A constellation of other head lamps bob in the darkness ahead and behind as other adventurers have also made an early start on the 10-15 hour journey that is one of the most popular -- but most difficult -- of Colorado's 14'er summit hikes.
+The Longs trailhead starts at 9,200 feet elevation and keeps going up from there. We make a brisk pace as our legs wake up and we're keen to put distance behind us. A constellation of head lamps bob in the darkness ahead and behind as other adventurers have also made an early start on the 10-15 hour journey that is one of the most popular -- but most difficult -- of Colorado's 14'er summit hikes.
 
 We cover the first 3.5 miles in good time and reach the split point between the Loft and Keyhole routes to the summit. The Loft route is less popular and seemed the more adventurous so naturally we head that way! The path weaves below the face of the Diamond, the vertical slab of Longs' northern face, but all we see are shadows and blackness. 
 
@@ -51,3 +51,5 @@ Feeling recharged, we make our way back down the Homestretch. The drudgery of up
 Now begins the death march I knew would come. We arrive back at the Loft/Keyhole split point, having completed our circumnavigation of Longs Peak. It seems like another lifetime when we were last here, in the dark and full of energy, and yet it was just 9 hours ago. We turn down the final path and soon drop below the treeline. Every rock is a torment as blisters burn my feet. On we trudge. When did we pass this brook? Did we really make so many turns on the way up? We pass families and couples with smiles on their faces, out for a casual stroll. Will they ever ascend the heights we have just witnessed?
 
 10.5 hours, 15 miles and 5,000 feet of elevation later, we arrive back at the ranger station where water, tea and rest await. With weary limbs, dehydrated heads and happy hearts, we head home.
+
+{% include image.html url="/public/images/loft-loop.jpg" description="Loft loop to Longs Peak: 10.5 hours, 15 miles and 5,000 feet of elevation" %}
