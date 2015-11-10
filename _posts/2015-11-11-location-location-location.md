@@ -8,7 +8,7 @@ image: /public/images/you-are-here-earth.jpg
 comments: True
 ---
 
-"Location, location, location."<br/> 
+*"Location, location, location."*<br/> 
 It’s no longer just a real estate mantra. 
 Location has become a core component to almost every industry. 
 From the moment our smartphones wake us in the morning, through our daily commutes, the places we meet and eat, to our ride-share home at the end of the night. 
