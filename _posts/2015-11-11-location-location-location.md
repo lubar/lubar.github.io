@@ -9,7 +9,10 @@ comments: True
 ---
 
 Location, location, location. 
-It’s no longer just a real estate mantra. Location has become a core component to almost every industry. From the moment our smartphones wake us in the morning, through our daily commutes, the places we meet and eat, to our ride-share home at the end of the night, every step, every activity and every comment happens at a point on the planet. 
+It’s no longer just a real estate mantra. 
+Location has become a core component to almost every industry. 
+From the moment our smartphones wake us in the morning, through our daily commutes, the places we meet and eat, to our ride-share home at the end of the night. 
+Every step, every activity and every comment happens at a point on the planet. 
 
 Understanding that planet and putting those locations in context is no longer the mission of just spies and soldiers. 
 Commercialization of communication, GPS and earth observation satellites has created a [$200B industry](http://www.sia.org/wp-content/uploads/2015/06/Mktg15-SSIR-2015-FINAL-Compressed.pdf). 
@@ -20,7 +23,9 @@ Location technology powers countless innovations here on earth - whether it's th
 BMW, Audi and Volkswagen recently outbid Uber to [purchase their own map for $3 billion](http://www.wsj.com/articles/bmw-daimler-audi-agree-to-buy-nokias-here-maps-business-1438580698).
 Google spends an estimated $1 billion per year keeping location at the heart of their user experience.
 [OpenStreetMap](http://openstreetmap.org) -- the "Wikipedia of maps" -- has millions of active contributors who've built an open source asset that is now also worth billions.
-Apple, Amazon, TomTom, Uber, not to mention [countless](http://techcrunch.com/2015/06/17/mapbox-raises-52-6m-led-by-dfj-to-build-the-map-layer-for-all-apps/) [startups](http://venturebeat.com/2015/09/10/cartodb-raises-23m-to-help-bring-location-based-data-visualizations-to-the-masses/), most non-profits and every government are investing more and more in understanding *where*...<br/>
+Apple, Amazon, TomTom, Uber, not to mention [countless](http://techcrunch.com/2015/06/17/mapbox-raises-52-6m-led-by-dfj-to-build-the-map-layer-for-all-apps/) [startups](http://venturebeat.com/2015/09/10/cartodb-raises-23m-to-help-bring-location-based-data-visualizations-to-the-masses/), most non-profits and every government are investing more and more in understanding *where*.
+All of them are gobbling up (location)[http://www.businessinsider.com/how-google-bought-waze-the-inside-story-2015-8] (companies)[http://money.cnn.com/2015/09/28/technology/apple-maps-hopstop-mapsense/] and (technologies)[http://techcrunch.com/2015/06/29/uber-acquires-part-of-bings-mapping-assets-will-absorb-around-100-microsoft-employees/] in an effort to control the map.
+<br/>
 But who's really making money from location?
 
 For the big guys, location is a competitive necessity. 
