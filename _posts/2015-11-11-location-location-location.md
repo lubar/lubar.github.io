@@ -35,7 +35,7 @@ Uber and the auto makers want to keep Apple and Google out of the car and hold o
 
 What about everyone else? 
 
-Ever since [smartphones killed dedicated GPs hardware](http://www.wired.com/2012/06/gps-devices-are-dead/), there are few location-based products or services that users pay for directly. 
+Ever since [smartphones killed dedicated GPS hardware](http://www.wired.com/2012/06/gps-devices-are-dead/), there are few location-based products or services that users pay for directly. 
 GIS has been around since the sixties and today is a billion-dollar business. 
 Intelligence agencies and government planners spend big bucks. 
 Marketers and big data firms are starting to extract insights from location information.
