@@ -42,4 +42,4 @@ Marketers and big data firms are starting to extract insights from location info
 We've got lots of killer location apps but, in my humble opinion, we still haven't seen the killer location *business*.
 The company or technology that can transform pervasive awareness of the location of every connected person and thing into valuable, indispensable products -- without needing a multi-billion dollar advertising, hardware or automobile business to take advantage of them -- will truly put location business on the map. 
 
-The location gold rush has begun... but for now we're still just panning for gold dust.
+The location gold rush has begun... but for now we're just panning for gold dust.
